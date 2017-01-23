@@ -9,6 +9,7 @@ namespace Algos.Helpers
     public enum AlgoList
     {
         InterpolationSearch,
-        JumpSearch
+        JumpSearch,
+        BinarySearch
     }
 }

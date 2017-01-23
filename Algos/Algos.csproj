@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Helpers\Enums.cs" />
     <Compile Include="Interfaces\ISearch.cs" />
+    <Compile Include="SearchAlgos\BinarySearch.cs" />
     <Compile Include="SearchAlgos\InterpolationSearch.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
