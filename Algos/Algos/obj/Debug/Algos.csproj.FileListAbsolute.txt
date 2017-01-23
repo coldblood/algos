@@ -1,0 +1,5 @@
+c:\users\suryaklsv\documents\visual studio 2015\Projects\Algos\Algos\bin\Debug\Algos.exe.config
+c:\users\suryaklsv\documents\visual studio 2015\Projects\Algos\Algos\bin\Debug\Algos.exe
+c:\users\suryaklsv\documents\visual studio 2015\Projects\Algos\Algos\bin\Debug\Algos.pdb
+c:\users\suryaklsv\documents\visual studio 2015\Projects\Algos\Algos\obj\Debug\Algos.exe
+c:\users\suryaklsv\documents\visual studio 2015\Projects\Algos\Algos\obj\Debug\Algos.pdb
