@@ -3,3 +3,9 @@ c:\users\suryaklsv\documents\visual studio 2015\Projects\Algos\Algos\bin\Debug\A
 c:\users\suryaklsv\documents\visual studio 2015\Projects\Algos\Algos\bin\Debug\Algos.pdb
 c:\users\suryaklsv\documents\visual studio 2015\Projects\Algos\Algos\obj\Debug\Algos.exe
 c:\users\suryaklsv\documents\visual studio 2015\Projects\Algos\Algos\obj\Debug\Algos.pdb
+D:\algos\Algos\bin\Debug\Algos.exe.config
+D:\algos\Algos\obj\Debug\Algos.exe
+D:\algos\Algos\obj\Debug\Algos.pdb
+D:\algos\Algos\bin\Debug\Algos.exe
+D:\algos\Algos\bin\Debug\Algos.pdb
+D:\algos\Algos\obj\Debug\Algos.csprojResolveAssemblyReference.cache

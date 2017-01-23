@@ -8,6 +8,7 @@ namespace Algos.Helpers
 {
     public enum AlgoList
     {
-        InterpolationSearch
+        InterpolationSearch,
+        JumpSearch
     }
 }
