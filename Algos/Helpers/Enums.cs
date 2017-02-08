@@ -10,6 +10,7 @@ namespace Algos.Helpers
     {
         InterpolationSearch,
         JumpSearch,
-        BinarySearch
+        BinarySearch,
+        SelectionSort
     }
 }
